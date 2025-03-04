@@ -33,15 +33,26 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img width="706" alt="Annotation 2025-02-11 152826" src="https://github.com/user-attachments/assets/62cba010-0218-435a-b54d-56c3f7ab3487" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+UserS submit a ticket request and detail their IT related issues. Below are sample tickets detailing some of the problems that can appear as tickets in a real environment. Tickets are created by using a Help Topic, a descriptive outline of the issue, and the details of the issue that are all written as if it were an email.
+
 </p>
 <br />
 
+<img width="740" alt="Annotation 2025-02-11 164540" src="https://github.com/user-attachments/assets/c40908cc-1f5f-4ee0-be23-40cc86df0784" />
+
+
+
 <p>
-<img width="710" alt="Annotation 2025-02-11 161043" src="https://github.com/user-attachments/assets/8df0b216-8c4d-4915-bd6f-80c03ed84227" />
 </p>
+<img width="809" alt="Annotation 2025-02-11 160534" src="https://github.com/user-attachments/assets/5d7402cf-4b62-4e37-ad7a-bc7df33fd576" />
+
+
+When resolving tickets, proper communication is key. One has to communicate with their team and the affected users. A variety of tickets are created with different issues and are assigned appropriately to different people.. Documentation is crucial to a successful environment. Tickets need to be documented properly so they can be used as reference if a similar issue shows up in the future.
+
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Admins receive the ticket requests from their panel once they are sent. and can reassign tickets to an agent or appropriate team. The severity level of the issue is determined and assigned accordingly to make sure appropriate tickets are solved within an SLA. Jane a team member viewed this ticket and decided to attend to this ticket herslef.
+  
 </p>
 <br />
 
@@ -49,6 +60,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img width="820" alt="Annotation 2025-02-11 162011" src="https://github.com/user-attachments/assets/3d6d21d3-e96b-4783-a623-bdd8305d7a0e" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+  <img width="776" alt="Annotation 2025-02-11 162502" src="https://github.com/user-attachments/assets/e672f17d-e015-473a-ad2b-ea5823e9ce98" />
+
+The practices for how tickets are managed can differ depending on the work environment. There may be a set goal for tickets that need to be resolved within a certain time frame and certain tickets may need to be prioritized depending on the situation. I have built osTicket from scratch and was able to understand how tickets work in an IT position.
+
 </p>
 <br />
